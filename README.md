@@ -1,6 +1,9 @@
 ### <p align="center">Здравствуйте! Меня зовут Даниил! 👋</p>
 
 <div id="badges" align="center">
+  <a href="www.linkedin.com/in/daniil-blokhin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   <a href="https://t.me/joker_jaba">
     <img src = "https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
