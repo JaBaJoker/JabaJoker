@@ -27,7 +27,7 @@
 - Стек технологий: Python, pandas, matplotlib
 2) task_vk (https://github.com/JaBaJoker/task_vk)
 - Ключевая задача: создать скрипт для автоматизированной обработки и агрегации данных о действиях пользователей, с возможностью получения как ежедневной, так и еженедельной статистики.
-- Стек технологий: Python, pandas, matplotlib, sys, Excel
+- Стек технологий: Python, pandas, matplotlib, sys
 3) FFNN Regression Bike Sharing Dataset
 (https://colab.research.google.com/drive/1DMkipfN3PVJmB5lum9cBbcdU84hoIeBj?usp=sharing)
 - Ключевая задача: анализ данных и построение модели машинного обучения для прогнозирования количества прокатов велосипедов на основе различных факторов
