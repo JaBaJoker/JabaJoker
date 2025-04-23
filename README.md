@@ -34,8 +34,7 @@
 - Стек технологий: Python, ML, numpy, pandas, scikit-learn, statsmodels, matplotlib, seaborn, Google Colab
 - Результаты:
 Выявил значимые факторы, построил эффективную модель множественной линейной регрессии
-4) Kaggle-соревнования (https://www.kaggle.com/code/danybn/danybn-titanic ;
-https://www.kaggle.com/code/danybn/alfa-challenge)
+4) Kaggle-соревнования (https://www.kaggle.com/code/danybn/danybn-titanic)
 - Ключевые задачи: анализ и построение модели машинного обучения для предсказания выживаемости пассажиров Титаника;
 построение модели машинного обучения для прогнозирования минимального баланса клиентов банка
 - Стек технологий: Python, ML, numpy, pandas, scikit-learn
